@@ -1,1 +1,5 @@
+batch_size: 16
+learning_rate: 0.0002
+epochs: 50
+dataset_path: ./data/vimeo90k
 
